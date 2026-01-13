@@ -3,22 +3,22 @@ import requests
 import time
 import json
 
-# --- 1. CẤU HÌNH KẾT NỐI LANGFLOW ---
-# ID dự án của bạn (đã lấy từ hình ảnh cũ)
+# - CẤU HÌNH KẾT NỐI LANGFLOW -
+# ID dự án của bạn 
 FLOW_ID = "f8f2d4a5-78e3-4610-99f4-304da75b54e1"
 BASE_API_URL = "http://127.0.0.1:7860"
 ENDPOINT = f"{BASE_API_URL}/api/v1/run/{FLOW_ID}"
 
-# 👉 API Key mới của bạn (Đã điền sẵn)
+# API 
 LANGFLOW_API_KEY = "sk-jSmwbPgVKsOOoL1UIQ2PIr4awzF_XGmGQhFqI8i6QRI"
 
-# Cấu hình Tweaks (để mặc định để tránh lỗi logic bên Langflow)
+# Cấu hình Tweaks 
 TWEAKS = {
   "ChatInput-KUDM9": {}, 
   "ChatOutput-abc": {}
 }
 
-# --- 2. HÀM GỬI TIN NHẮN SANG AI (BACKEND) ---
+# -HÀM GỬI TIN NHẮN SANG AI -
 def run_flow(message: str) -> str:
     """Gửi câu hỏi kèm chìa khóa bảo mật sang Langflow"""
     
@@ -61,7 +61,7 @@ def run_flow(message: str) -> str:
     except Exception as e:
         return f"❌ Có lỗi không xác định: {str(e)}"
 
-# --- 3. GIAO DIỆN NGƯỜI DÙNG (FRONTEND) ---
+# - GIAO DIỆN NGƯỜI DÙNG -
 st.set_page_config(page_title="Tư vấn tuyển sinh TVU", page_icon="🎓", layout="centered")
 
 # [THANH BÊN TRÁI - SIDEBAR]

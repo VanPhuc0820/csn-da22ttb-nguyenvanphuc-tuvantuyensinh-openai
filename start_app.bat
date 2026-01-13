@@ -1,0 +1,9 @@
+@echo off
+echo Dang khoi dong Langflow...
+start "Langflow Server" cmd /k "cd /d D:\du_an_ai && venv\Scripts\activate && python -m langflow run"
+
+echo Dang doi 5 giay de Langflow khoi dong...
+timeout /t 5
+
+echo Dang khoi dong Web Streamlit...
+start "Streamlit App" cmd /k "cd /d D:\du_an_ai && venv\Scripts\activate && streamlit run app.py"

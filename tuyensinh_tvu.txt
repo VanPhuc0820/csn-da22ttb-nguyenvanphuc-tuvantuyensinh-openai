@@ -1,0 +1,101 @@
+###
+TỔNG QUAN VỀ TRƯỜNG ĐẠI HỌC TRÀ VINH (TVU)
+- Tên đầy đủ: Trường Đại học Trà Vinh (Tra Vinh University).
+- Mã trường tuyển sinh: DVT.
+- Loại hình đào tạo: Trường Đại học Công lập.
+- Vị trí: Số 126 Nguyễn Thiện Thành, Khóm 4, Phường 5, TP. Trà Vinh, tỉnh Trà Vinh.
+- Đặc điểm nổi bật: Là trường đại học theo mô hình Co-op (đào tạo gắn kết với doanh nghiệp), mô hình Đại học Xanh bền vững.
+- Kênh thông tin chính thức: Website tuyensinh.tvu.edu.vn; Hotline/Zalo: 0911.202.707.
+
+###
+CÁC PHƯƠNG THỨC XÉT TUYỂN CHÍNH NĂM 2025 (DỰ KIẾN)
+Đại học Trà Vinh sử dụng linh hoạt các phương thức sau để tăng cơ hội cho thí sinh:
+1. Phương thức 1: Xét tuyển dựa vào điểm thi Tốt nghiệp THPT năm 2025.
+2. Phương thức 2: Xét tuyển dựa vào kết quả học tập THPT (Xét học bạ). Đây là phương thức phổ biến, thí sinh có thể dùng điểm trung bình lớp 12 hoặc điểm trung bình cả 3 năm.
+3. Phương thức 3: Xét tuyển thẳng theo quy chế của Bộ GD&ĐT và quy định riêng của TVU (Học sinh giỏi, đạt giải quốc gia, trường chuyên...).
+4. Phương thức 4: Xét tuyển dựa vào kỳ thi Đánh giá năng lực của ĐHQG TP.HCM.
+5. Phương thức 5: Xét tuyển thí sinh từ Trường Dự bị Đại học (Dân tộc hoặc khoa dự bị của TVU).
+Lưu ý: Đối với các ngành Sức khỏe (Y, Dược, Răng Hàm Mặt) và Sư phạm, điều kiện xét tuyển học bạ sẽ khắt khe hơn (thường yêu cầu Học lực Lớp 12 loại Giỏi hoặc điểm xét tốt nghiệp từ 8.0 trở lên).
+
+###
+THÔNG TIN NGÀNH: CÔNG NGHỆ THÔNG TIN (CNTT)
+- Thuộc khoa: Trường Kỹ thuật và Công nghệ (SET - School of Engineering and Technology).
+- Mã ngành tham khảo: 7480201.
+- Tổ hợp xét tuyển thường gặp: A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), C01 (Toán, Văn, Lý), D01 (Toán, Văn, Anh).
+- Chương trình đào tạo: Sinh viên ngành Công nghệ thông tin tại TVU được học về Lập trình (Java, C#, Python, Web, Mobile), Cơ sở dữ liệu, Mạng máy tính, An toàn thông tin.
+- Đặc điểm nổi bật: Chương trình Co-op giúp sinh viên có 30-50% thời gian thực tập tại doanh nghiệp công nghệ ngay từ năm 3.
+- Cơ hội việc làm CNTT: Lập trình viên (Developer), Chuyên viên kiểm thử phần mềm (Tester), Quản trị mạng, Chuyên viên phân tích dữ liệu (Data Analyst).
+
+###
+THÔNG TIN NGÀNH: TRÍ TUỆ NHÂN TẠO (AI)
+- Đây là ngành học mới và mũi nhọn của Trường Kỹ thuật và Công nghệ - ĐH Trà Vinh.
+- Nội dung đào tạo: Tập trung vào Học máy (Machine Learning), Học sâu (Deep Learning), Xử lý ngôn ngữ tự nhiên (NLP), Thị giác máy tính.
+- Định hướng: Đào tạo kỹ sư có khả năng xây dựng các ứng dụng thông minh, Chatbot, hệ thống nhận diện khuôn mặt, hệ thống gợi ý tự động.
+- Môi trường học tập: Có các phòng Lab cấu hình cao để train model AI.
+
+###
+NHÓM NGÀNH KỸ THUẬT - CÔNG NGHỆ KHÁC (THUỘC SET)
+Ngoài CNTT, Trường Kỹ thuật và Công nghệ (SET) thuộc ĐH Trà Vinh còn đào tạo các ngành mạnh sau:
+1. Công nghệ kỹ thuật Ô tô: Đào tạo về động cơ, hệ thống điện ô tô, chẩn đoán lỗi xe, công nghệ ô tô điện và xe lai (Hybrid). Xưởng thực hành ô tô của TVU được đầu tư rất lớn.
+2. Công nghệ kỹ thuật Cơ khí: Thiết kế máy, gia công CNC, vận hành máy móc công nghiệp.
+3. Công nghệ kỹ thuật Điện - Điện tử: Hệ thống điện công nghiệp, điện dân dụng, tự động hóa, PLC.
+4. Công nghệ kỹ thuật Điều khiển và Tự động hóa: Robot công nghiệp, dây chuyền sản xuất tự động.
+5. Công nghệ kỹ thuật Xây dựng: Xây dựng dân dụng và công nghiệp, thiết kế kết cấu, giám sát thi công.
+
+###
+THÔNG TIN NGÀNH: Y KHOA (Y ĐA KHOA)
+- Mã ngành tham khảo: 7720101.
+- Thời gian đào tạo: 6 năm.
+- Tổ hợp xét tuyển: B00 (Toán, Hóa, Sinh).
+- Điểm chuẩn: Thường là ngành có điểm chuẩn cao nhất trường (dao động từ 24 - 26 điểm thi THPT, hoặc học bạ rất cao).
+- Yêu cầu học bạ (nếu xét tuyển): Học sinh phải có Học lực lớp 12 xếp loại Giỏi hoặc điểm xét tốt nghiệp THPT từ 8.0 trở lên.
+- Môi trường thực tập: Bệnh viện Đa khoa tỉnh Trà Vinh, Bệnh viện Đại học Trà Vinh (nằm ngay trong khuôn viên trường) và các bệnh viện liên kết tại TP.HCM, Cần Thơ.
+- Học phí Y đa khoa: Đây là ngành có học phí cao nhất, dự kiến khoảng 40.000.000đ - 48.000.000đ/năm học (mức tham khảo, có thể thay đổi theo lộ trình).
+
+###
+THÔNG TIN NGÀNH: RĂNG - HÀM - MẶT
+- Mã ngành tham khảo: 7720501.
+- Thời gian đào tạo: 6 năm.
+- Tổ hợp xét tuyển: B00 (Toán, Hóa, Sinh), đôi khi có thêm A00 hoặc D07 tùy năm.
+- Điều kiện xét tuyển: Tương tự Y đa khoa, yêu cầu học lực rất tốt. Đối với xét học bạ, bắt buộc Lớp 12 phải đạt loại Giỏi.
+- Nội dung đào tạo: Chữa răng, phục hình răng, phẫu thuật hàm mặt, nha chu, chỉnh nha. Sinh viên được thực hành trên các mô hình nha khoa hiện đại (Simu) và trên bệnh nhân thật dưới sự hướng dẫn của bác sĩ.
+- Học phí Răng Hàm Mặt: Tương đương hoặc cao hơn một chút so với Y đa khoa, dự kiến trên 45.000.000đ/năm.
+
+###
+THÔNG TIN NGÀNH: DƯỢC HỌC
+- Mã ngành tham khảo: 7720201.
+- Thời gian đào tạo: 5 năm.
+- Danh hiệu tốt nghiệp: Dược sĩ đại học.
+- Tổ hợp xét tuyển: A00 (Toán, Lý, Hóa), B00 (Toán, Hóa, Sinh).
+- Điều kiện xét tuyển học bạ: Học lực lớp 12 loại Giỏi hoặc điểm xét tốt nghiệp >= 8.0.
+- Cơ hội nghề nghiệp: Dược sĩ lâm sàng tại bệnh viện, quản lý nhà thuốc, trình dược viên, chuyên viên bào chế thuốc tại nhà máy dược, kiểm nghiệm thuốc.
+- Học phí Dược học: Dự kiến dao động khoảng 35.000.000đ - 40.000.000đ/năm học.
+
+###
+CÁC NGÀNH SỨC KHỎE KHÁC
+Ngoài 3 ngành "hot" trên, TVU còn đào tạo:
+1. Điều dưỡng: Đào tạo cử nhân điều dưỡng, chăm sóc bệnh nhân. Nhu cầu đi làm việc tại Nhật Bản, Đức rất cao.
+2. Kỹ thuật xét nghiệm y học: Làm việc tại các phòng Lab bệnh viện, trung tâm xét nghiệm.
+3. Y tế công cộng & Y học dự phòng: Làm việc tại các trung tâm y tế dự phòng, sở y tế.
+4. Kỹ thuật hình ảnh y học: Chụp X-quang, CT, MRI.
+
+###
+HỌC PHÍ CHI TIẾT CÁC NHÓM NGÀNH (DỰ KIẾN 2025-2026)
+Học phí ĐH Trà Vinh tính theo tín chỉ. Dưới đây là mức ước tính trung bình cho một năm học:
+1. Nhóm ngành Sư phạm: Miễn học phí 100% (nếu có cam kết phục vụ ngành giáo dục).
+2. Nhóm Kỹ thuật - Công nghệ (CNTT, Ô tô, Điện, Xây dựng...): Mức trung bình khoảng 18.000.000đ đến 21.000.000đ / năm.
+3. Nhóm Kinh tế, Luật, Ngôn ngữ, Du lịch: Mức thấp hơn, khoảng 16.000.000đ đến 18.500.000đ / năm.
+4. Nhóm Y - Dược - Răng Hàm Mặt:
+   - Y đa khoa, Răng Hàm Mặt: > 40.000.000đ / năm.
+   - Dược học: ~ 35.000.000đ - 38.000.000đ / năm.
+   - Các ngành cử nhân sức khỏe khác (Điều dưỡng, Xét nghiệm...): ~ 22.000.000đ - 25.000.000đ / năm.
+Lưu ý: Học phí có thể tăng nhẹ theo lộ trình từng năm nhưng tuân thủ quy định nhà nước đối với trường công lập.
+
+###
+CƠ SỞ VẬT CHẤT VÀ TIỆN ÍCH CHO SINH VIÊN
+- Ký túc xá: Có khu KTX quy mô 3.500 chỗ nằm ngay trong khuôn viên trường. Phòng ở tiện nghi, có wifi, an ninh tốt. Giá rất rẻ (chỉ khoảng vài trăm nghìn đồng/tháng).
+- Bệnh viện trường học: Có bệnh viện ĐH Trà Vinh, phòng khám đa khoa để sinh viên Y Dược thực tập và sinh viên toàn trường khám chữa bệnh BHYT.
+- Thư viện thông minh: Trung tâm Học liệu hiện đại, không gian máy lạnh, máy tính tra cứu, mở cửa 24/7 trong mùa thi.
+- Khu thể thao: Sân vận động, nhà thi đấu đa năng, sân bóng đá, bóng chuyền, tennis.
+
+###
